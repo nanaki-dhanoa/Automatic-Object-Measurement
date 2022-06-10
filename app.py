@@ -153,7 +153,7 @@ def get_image_download_link(img):
 	return href
 
 def main():
-	st.image("../logo_designs/logo2.png", width=100)
+	st.image("logo_design/logo2.png", width=100)
 	st.title("Object Measurement Web App \U0001F4D0")
 
 	image_file = st.file_uploader("Choose an image", type=['jpg', 'jpeg', 'png'])
