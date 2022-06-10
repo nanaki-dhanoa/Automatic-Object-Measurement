@@ -1,12 +1,12 @@
 # Automatic-Object-Measurement
 ## Calculates the size of objects based on a given reference object
-This object size estimator is created using opencv and numpy.
+This object size estimator processes the image mainly using opencv and numpy.
 The website is created using streamlit.
 
 # How to run this project?
 1. Download the repository and unzip it
 2. Open the command prompt from within this folder and create a virtual env to install the project dependencies.
-  (You can do this using the following command for Windows OS)
+  (You can do this using the following commands on a Windows OS)
   ```
   > python -m venv {venv-name}
   ({venv-name}) > {venv-name}\Scripts\activate
