@@ -21,7 +21,7 @@ The website is created using streamlit.
   
   ![alt text](https://github.com/nanaki-dhanoa/Automatic-Object-Measurement/blob/main/readme_images/image1.png?raw=true)
   
-  Upload the image you want to perform measurement on (there should be a reference square of 2x2 cm as the leftmost element in the image) and then click on Measure Distance/Measure Area
+  Upload the image you want to perform measurement on (*there should be a reference square of 2x2 cm as the leftmost element in the image*) and then click on `Measure Distance` / `Measure Area` button
   
   ![alt text](https://github.com/nanaki-dhanoa/Automatic-Object-Measurement/blob/main/readme_images/image2.png?raw=true)
   
