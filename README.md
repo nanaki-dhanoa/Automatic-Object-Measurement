@@ -27,3 +27,4 @@ The website is created using streamlit.
   
   ![alt text](https://github.com/nanaki-dhanoa/Automatic-Object-Measurement/blob/main/readme_images/image3.png?raw=true)
   
+You can also download the output images using the `Download` button
